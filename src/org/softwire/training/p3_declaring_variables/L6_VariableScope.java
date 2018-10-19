@@ -1,6 +1,6 @@
 package org.softwire.training.p3_declaring_variables;
 
-public class L4_VariableScope {
+public class L6_VariableScope {
 
     // ???????????????
     // Will this work?
@@ -53,5 +53,27 @@ public class L4_VariableScope {
 //        System.out.println(price);
 //        System.out.println(discount);
     }
+
+}
+
+
+// ???????????????
+// Will this work?
+// ???????????????
+class AnotherClass {
+
+//    int discount;
+//
+//    void calculateDiscountThree(int price) {
+//        if (price > 100) {
+//            discount = 20;
+//        }
+//        else {
+//            discount = 5;
+//        }
+//
+//        System.out.println(price);
+//        System.out.println(discount);
+//    }
 
 }

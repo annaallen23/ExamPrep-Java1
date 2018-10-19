@@ -1,27 +1,24 @@
 package org.softwire.training.p3_declaring_variables;
 
-public class L3_DefaultValues {
+public class L5_WhichVariablesNeedInitialising {
 
-    public static void main(String[] args) {
+    public static void hello(String[] args) {
 
-        // ????????????????????????
-        // Which of these are valid
-        // ????????????????????????
+        // ????????????????
+        // Will these work?
+        // ????????????????
 
-//        int intOne = 1;
-//        System.out.println("intOne: " + intOne);
-
-//        int intTwo;
-//        intTwo = 2;
-//        System.out.println("intTwo: " + intTwo);
-
-//        int intThree;
-//        System.out.println("intThree: " + intThree);
-
-//        Tiger tiger = new Tiger();
+        Tiger tiger = new Tiger();
 //        System.out.println("tiger.age: " + tiger.age);
+//        System.out.println("tiger.hasFur: " + tiger.hasFur);
+//        System.out.println("tiger.name: " + tiger.name);
 
-//        System.out.println("Badger.population: " + Badger.population);
+        int myAge;
+        boolean doIHaveFur;
+        String myName;
+//        System.out.println("myAge: " + myAge);
+//        System.out.println("doIHaveFur: " + doIHaveFur);
+//        System.out.println("myName: " + myName);
 
     }
 }
@@ -29,8 +26,6 @@ public class L3_DefaultValues {
 
 class Tiger {
     public int age;
-}
-
-class Badger {
-    public static int population;
+    public boolean hasFur;
+    public String name;
 }

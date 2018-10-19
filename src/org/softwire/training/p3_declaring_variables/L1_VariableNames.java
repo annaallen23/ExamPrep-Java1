@@ -1,6 +1,6 @@
 package org.softwire.training.p3_declaring_variables;
 
-public class L2_VariableNames {
+public class L1_VariableNames {
 
     public static void main(String[] args) {
 

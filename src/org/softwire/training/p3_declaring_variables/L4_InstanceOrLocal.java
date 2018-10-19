@@ -1,0 +1,22 @@
+package org.softwire.training.p3_declaring_variables;
+
+public class L4_InstanceOrLocal {
+}
+
+// ????????????????????
+// Which of these are:
+// - INSTANCE variables
+// - LOCAL variables
+// ????????????????????
+
+class SomeClass {
+    int intA;
+    { int intB; }
+    int intC;
+    public SomeClass() {
+        int intD;
+    }
+    private void init() {
+        int intE;
+    }
+}
