@@ -43,7 +43,7 @@ public class L2_WholeNumbers {
         // Will this work?
         // ???????????????
 
-//        byte  aByte = 123;
+        byte  aByte = 123;
 //        short aShort = aByte;
 //        int   anInt = aShort;
 //        long  aLong = anInt;
@@ -53,7 +53,7 @@ public class L2_WholeNumbers {
         // Will this work?
         // ???????????????
 
-//        long  bLong  = 123;
+        long  bLong  = 123L;
 //        int   bInt   = bLong;
 //        short bShort = bInt;
 //        byte  bByte  = bShort;
@@ -80,12 +80,12 @@ public class L2_WholeNumbers {
         // Which of the following lines will compile?
         // ??????????????????????????????????????????
 
-//        int intEight  = 123456;
+        int intEight  = 123456;
 //        int intNine   = 123_456;
 //        int intTen    = 123_456_;
 //        int intEleven = _123_456;
-//
-//        double doubleOne   =        123.456;
+
+        double doubleOne   =        123.456;
 //        double doubleTwo   =    123_456.789;
 //        double doubleThree =    123_456.789_012;
 //        double doubleFour  =   123_456_.789_012;
