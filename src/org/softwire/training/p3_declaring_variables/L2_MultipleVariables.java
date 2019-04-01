@@ -12,10 +12,10 @@ public class L2_MultipleVariables {
         String s1, s2;
         String s3 = "three", s4 = "four";
 
-//        System.out.println("s1: " + s1);
-//        System.out.println("s2: " + s2);
-//        System.out.println("s3: " + s3);
-//        System.out.println("s4: " + s4);
+//        System.out.println("s1: " + s1); //no as not initialised and local variable
+//        System.out.println("s2: " + s2); //no as not initialised and local variable
+//        System.out.println("s3: " + s3); //yes will return three
+//        System.out.println("s4: " + s4); //yes will return four
 
 
         // ?????????????????????
@@ -25,9 +25,9 @@ public class L2_MultipleVariables {
 
         int iOne, iTwo, iThree = 123;
 
-//        System.out.println("iOne: " + iOne);
-//        System.out.println("iOne: " + iTwo);
-//        System.out.println("iOne: " + iThree);
+//       System.out.println("iOne: " + iOne); // null
+//        System.out.println("iOne: " + iTwo); // null
+//        System.out.println("iOne: " + iThree); //123
 
 
         // ?????????????????????
@@ -36,22 +36,11 @@ public class L2_MultipleVariables {
         // ?????????????????????
 
         int iFour, iFive, iSix;
-//        iFour = iFive = iSix = 456;
+ //      iFour = iFive = iSix = 456;
 
-//        System.out.println("iFour: " + iFour);
-//        System.out.println("iFive: " + iFive);
-//        System.out.println("iSix: " + iSix);
-
-
-        // ?????????????????????
-        // Will this work?
-        // What will be printed?
-        // ?????????????????????
-
-//        int iSeven = 7, iEight = 8;
-
-//        System.out.println("iSeven: " + iSeven);
-//        System.out.println("iEight: " + iEight);
+   //     System.out.println("iFour: " + iFour); //456
+     //   System.out.println("iFive: " + iFive); //456
+        //   System.out.println("iSix: " + iSix); //456
 
 
         // ?????????????????????
@@ -59,10 +48,21 @@ public class L2_MultipleVariables {
         // What will be printed?
         // ?????????????????????
 
-//        int iNine = 9; iTen = 10;
+//       int iSeven = 7, iEight = 8;
 
-//        System.out.println("iNine: " + iNine);
-//        System.out.println("iTen: " + iTen);
+//        System.out.println("iSeven: " + iSeven); //7
+//        System.out.println("iEight: " + iEight); //8
+
+
+        // ?????????????????????
+        // Will this work?
+        // What will be printed?
+        // ?????????????????????
+
+ //      int iNine = 9; iTen = 10;
+
+ //       System.out.println("iNine: " + iNine); //9
+ //       System.out.println("iTen: " + iTen); //nothing as not declared as an int
 
     }
 }

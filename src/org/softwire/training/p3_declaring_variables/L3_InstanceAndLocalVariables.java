@@ -33,3 +33,6 @@ class MyClass {
     }
 
 }
+//prints out 1&1 1st time, 2&1 second time and 3&1 third time as
+//local variable always resets to 0 each time the method is run but instanceVariable
+//doesn't

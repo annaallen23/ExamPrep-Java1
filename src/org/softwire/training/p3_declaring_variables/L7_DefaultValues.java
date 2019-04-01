@@ -10,11 +10,11 @@ public class L7_DefaultValues {
 
         ClassyClass classyClass = new ClassyClass();
 
-        System.out.println("theBool: " + classyClass.theBool);
-        System.out.println("theInt: " + classyClass.theInt);
-        System.out.println("theDouble: " + classyClass.theDouble);
-        System.out.println("theChar: " + classyClass.theChar);
-        System.out.println("theString: " + classyClass.theString);
+        System.out.println("theBool: " + classyClass.theBool); //false
+        System.out.println("theInt: " + classyClass.theInt); //0
+        System.out.println("theDouble: " + classyClass.theDouble); //0
+        System.out.println("theChar: " + classyClass.theChar); //null incorrect will print out nothing
+        System.out.println("theString: " + classyClass.theString); //null
 
     }
 }
