@@ -8,9 +8,9 @@ public class L3_DecimalNumbers {
         // Which of the following lines will compile?
         // ??????????????????????????????????????????
 
-//        double doubleOne = 123.45;
-//        float floatOne   = 123.45;
-//        float floatTwo   = 123.45f;
+//        double doubleOne = 123.45; //yes
+//        float floatOne   = 123.45; //no
+//        float floatTwo   = 123.45f; //yes
 
 
         // ???????????????
@@ -18,7 +18,7 @@ public class L3_DecimalNumbers {
         // ???????????????
 
 //        float  aFloat  = 123.456f;
-//        double aDouble = aFloat;
+//        double aDouble = aFloat; //yes
 
 
         // ???????????????
@@ -26,7 +26,7 @@ public class L3_DecimalNumbers {
         // ???????????????
 
 //        double bDouble = 123.456;
-//        float bFloat = bDouble;
+//        float bFloat = bDouble; //no
 
 
         // ???????????????
@@ -34,12 +34,12 @@ public class L3_DecimalNumbers {
         // ???????????????
 
         int cInt = 123;
-//        float cFloat = cInt;
-//        double cDouble = cInt;
+//        float cFloat = cInt; //yes
+//        double cDouble = cInt; //yes
 
         long dLong = 123L;
-//        float dFloat = dLong;
-//        double dDouble = dLong;
+//        float dFloat = dLong; //yes anything can go into a float or double
+//        double dDouble = dLong; //yes
 
 
 

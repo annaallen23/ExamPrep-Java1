@@ -19,10 +19,11 @@ class Frog {
 
     public int age;
 
-    public Frog() {
+    public Frog() {//constructor
         // They say elephants never forget.
         // That's because they keep a really good diary
-        String diary = L6Utils.readFile("C:\\Work\\New starter training\\Code\\ExamPrep\\src\\org\\softwire\\training\\L5_diary.txt");
+        String diary = L5Utils.readFile("/Users/anna.allen/documents/work/training/ExamPrep-Java1/src/org/softwire/training/p1_creating_objects/L5_diary.txt");
+
 
         String searchFor = "birthday party";
 

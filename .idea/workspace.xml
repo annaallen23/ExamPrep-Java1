@@ -2,20 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4b0f873-47b2-42c3-afd5-56c05be4c0a5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/softwire/training/p3_declaring_variables/L3_InstanceAndLocalVariables.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/softwire/training/p3_declaring_variables/L1_MultipleVariables.java" afterPath="$PROJECT_DIR$/src/org/softwire/training/p3_declaring_variables/L2_MultipleVariables.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/softwire/training/p3_declaring_variables/L2_VariableNames.java" afterPath="$PROJECT_DIR$/src/org/softwire/training/p3_declaring_variables/L1_VariableNames.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/softwire/training/p3_declaring_variables/L3_DefaultValues.java" afterPath="$PROJECT_DIR$/src/org/softwire/training/p3_declaring_variables/L5_WhichVariablesNeedInitialising.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/softwire/training/p3_declaring_variables/L4_VariableScope.java" afterPath="$PROJECT_DIR$/src/org/softwire/training/p3_declaring_variables/L6_VariableScope.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/softwire/training/p2_primitive_types/L2_WholeNumbers.java" afterPath="$PROJECT_DIR$/src/org/softwire/training/p2_primitive_types/L2_WholeNumbers.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/softwire/training/p2_primitive_types/L3_DecimalNumbers.java" afterPath="$PROJECT_DIR$/src/org/softwire/training/p2_primitive_types/L3_DecimalNumbers.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/softwire/training/p2_primitive_types/L4_Char.java" afterPath="$PROJECT_DIR$/src/org/softwire/training/p2_primitive_types/L4_Char.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/softwire/training/p2_primitive_types/L5_PrimitiveVsReferenceTypes.java" afterPath="$PROJECT_DIR$/src/org/softwire/training/p2_primitive_types/L5_PrimitiveVsReferenceTypes.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/softwire/training/p1_creating_objects/L2_Constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/softwire/training/p1_creating_objects/L2_Constructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/softwire/training/p1_creating_objects/L3_ConstructorVsField.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/softwire/training/p1_creating_objects/L3_ConstructorVsField.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/softwire/training/p1_creating_objects/L4_NotConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/softwire/training/p1_creating_objects/L4_NotConstructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/softwire/training/p1_creating_objects/L5_InstanceInitialisers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/softwire/training/p1_creating_objects/L5_InstanceInitialisers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/softwire/training/p1_creating_objects/L6_NeverUseInstanceInitialisers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/softwire/training/p1_creating_objects/L6_NeverUseInstanceInitialisers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/softwire/training/p1_creating_objects/L7_OrderOfInitialisation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/softwire/training/p1_creating_objects/L7_OrderOfInitialisation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/softwire/training/p2_primitive_types/L2_WholeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/softwire/training/p2_primitive_types/L2_WholeNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/softwire/training/p2_primitive_types/L3_DecimalNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/softwire/training/p2_primitive_types/L3_DecimalNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/softwire/training/p2_primitive_types/L4_Char.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/softwire/training/p2_primitive_types/L4_Char.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/softwire/training/p2_primitive_types/L5_PrimitiveVsReferenceTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/softwire/training/p2_primitive_types/L5_PrimitiveVsReferenceTypes.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,77 +23,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="L1_VariableNames.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p3_declaring_variables/L1_VariableNames.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p2_primitive_types/L1_Boolean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-              <folding />
+            <state relative-caret-position="426">
+              <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="L2_MultipleVariables.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p3_declaring_variables/L2_MultipleVariables.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p2_primitive_types/L2_WholeNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-              <folding />
+            <state relative-caret-position="415">
+              <caret line="94" column="52" selection-start-line="94" selection-start-column="52" selection-end-line="94" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="L3_InstanceAndLocalVariables.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p3_declaring_variables/L3_InstanceAndLocalVariables.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p2_primitive_types/L3_DecimalNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-              <folding />
+            <state relative-caret-position="445">
+              <caret line="40" column="76" selection-start-line="40" selection-start-column="76" selection-end-line="40" selection-end-column="76" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="L4_InstanceOrLocal.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p3_declaring_variables/L4_InstanceOrLocal.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p2_primitive_types/L4_Char.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#296#297#0" expanded="true" />
-                <element signature="e#320#321#0" expanded="true" />
-                <element signature="e#346#347#0" expanded="true" />
-                <element signature="e#370#371#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="255">
+              <caret line="17" column="81" selection-start-line="17" selection-start-column="81" selection-end-line="17" selection-end-column="81" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="L5_WhichVariablesNeedInitialising.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p3_declaring_variables/L5_WhichVariablesNeedInitialising.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p2_primitive_types/L5_PrimitiveVsReferenceTypes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="L7_DefaultValues.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p3_declaring_variables/L7_DefaultValues.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="L6_VariableScope.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p3_declaring_variables/L6_VariableScope.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="360">
+              <caret line="24" column="93" selection-start-line="24" selection-start-column="93" selection-end-line="24" selection-end-column="93" />
             </state>
           </provider>
         </entry>
@@ -110,17 +80,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/org/softwire/training/L1_Constructors.java" />
-        <option value="$PROJECT_DIR$/src/org/softwire/training/L2_ConstructorVsField.java" />
-        <option value="$PROJECT_DIR$/src/org/softwire/training/L3_NotConstructors.java" />
         <option value="$PROJECT_DIR$/src/org/softwire/training/L4_NotConstructors.java" />
         <option value="$PROJECT_DIR$/src/org/softwire/training/L2_Constructors.java" />
         <option value="$PROJECT_DIR$/src/org/softwire/training/L2_Constructor.java" />
@@ -133,9 +95,6 @@
         <option value="$PROJECT_DIR$/src/org/softwire/training/L6_NeverUseInstanceInitialisers.java" />
         <option value="$PROJECT_DIR$/src/org/softwire/training/p2_numbers/L1_TypesOfNumber.java" />
         <option value="$PROJECT_DIR$/src/org/softwire/training/p2_primitive_types/L1_TypesOfNumber.java" />
-        <option value="$PROJECT_DIR$/src/org/softwire/training/p1_creating_objects/L4_NotConstructor.java" />
-        <option value="$PROJECT_DIR$/src/org/softwire/training/p1_creating_objects/L5_InstanceInitialisers.java" />
-        <option value="$PROJECT_DIR$/src/org/softwire/training/p1_creating_objects/L7_OrderOfInitialisation.java" />
         <option value="$PROJECT_DIR$/src/org/softwire/training/p2_primitive_types/L1_Creating.java" />
         <option value="$PROJECT_DIR$/src/org/softwire/training/p2_primitive_types/L1_Boolean.java" />
         <option value="$PROJECT_DIR$/src/org/softwire/training/p2_primitive_types/L2_BreakingThings.java" />
@@ -151,10 +110,6 @@
         <option value="$PROJECT_DIR$/src/org/softwire/training/p4_order_of_elements/L2_DoesThisWork.java" />
         <option value="$PROJECT_DIR$/src/org/softwire/training/p4_order_of_elements/L1_DoesThisWork.java" />
         <option value="$PROJECT_DIR$/src/org/softwire/training/p4_order_of_elements/L3_DoesThisWork.java" />
-        <option value="$PROJECT_DIR$/src/org/softwire/training/p2_primitive_types/L4_Char.java" />
-        <option value="$PROJECT_DIR$/src/org/softwire/training/p2_primitive_types/L5_PrimitiveVsReferenceTypes.java" />
-        <option value="$PROJECT_DIR$/src/org/softwire/training/p2_primitive_types/L3_DecimalNumbers.java" />
-        <option value="$PROJECT_DIR$/src/org/softwire/training/p2_primitive_types/L2_WholeNumbers.java" />
         <option value="$PROJECT_DIR$/src/org/softwire/training/p3_declaring_variables/L2_VariableNames.java" />
         <option value="$PROJECT_DIR$/src/org/softwire/training/p3_declaring_variables/L1_VariableNames.java" />
         <option value="$PROJECT_DIR$/src/org/softwire/training/p3_declaring_variables/L1_MultipleVariables.java" />
@@ -169,43 +124,33 @@
         <option value="$PROJECT_DIR$/src/org/softwire/training/p3_declaring_variables/L6_VariableScope.java" />
         <option value="$PROJECT_DIR$/src/org/softwire/training/p3_declaring_variables/L5_WhichVariablesNeedInitialising.java" />
         <option value="$PROJECT_DIR$/src/org/softwire/training/p3_declaring_variables/L7_DefaultValues.java" />
+        <option value="$PROJECT_DIR$/src/org/softwire/training/p1_creating_objects/L2_Constructor.java" />
+        <option value="$PROJECT_DIR$/src/org/softwire/training/p1_creating_objects/L3_ConstructorVsField.java" />
+        <option value="$PROJECT_DIR$/src/org/softwire/training/p1_creating_objects/L4_NotConstructor.java" />
+        <option value="$PROJECT_DIR$/src/org/softwire/training/p1_creating_objects/L6_NeverUseInstanceInitialisers.java" />
+        <option value="$PROJECT_DIR$/src/org/softwire/training/p1_creating_objects/L5_InstanceInitialisers.java" />
+        <option value="$PROJECT_DIR$/src/org/softwire/training/p1_creating_objects/L7_OrderOfInitialisation.java" />
+        <option value="$PROJECT_DIR$/src/org/softwire/training/p2_primitive_types/L2_WholeNumbers.java" />
+        <option value="$PROJECT_DIR$/src/org/softwire/training/p2_primitive_types/L3_DecimalNumbers.java" />
+        <option value="$PROJECT_DIR$/src/org/softwire/training/p2_primitive_types/L4_Char.java" />
+        <option value="$PROJECT_DIR$/src/org/softwire/training/p2_primitive_types/L5_PrimitiveVsReferenceTypes.java" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1616" />
-    <option name="height" value="876" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="730" />
+    <option name="width" value="710" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -238,6 +183,54 @@
               <item name="training" type="462c0819:PsiDirectoryNode" />
               <item name="p1_creating_objects" type="462c0819:PsiDirectoryNode" />
               <item name="L1_Field.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="ExamPrep-Java1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExamPrep-Java1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+              <item name="p1_creating_objects" type="462c0819:PsiDirectoryNode" />
+              <item name="L2_Constructor.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="ExamPrep-Java1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExamPrep-Java1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+              <item name="p1_creating_objects" type="462c0819:PsiDirectoryNode" />
+              <item name="L3_ConstructorVsField.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="ExamPrep-Java1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExamPrep-Java1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+              <item name="p1_creating_objects" type="462c0819:PsiDirectoryNode" />
+              <item name="L4_NotConstructor.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="ExamPrep-Java1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExamPrep-Java1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+              <item name="p1_creating_objects" type="462c0819:PsiDirectoryNode" />
+              <item name="L5_InstanceInitialisers.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="ExamPrep-Java1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExamPrep-Java1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+              <item name="p1_creating_objects" type="462c0819:PsiDirectoryNode" />
+              <item name="L6_NeverUseInstanceInitialisers.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="ExamPrep-Java1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExamPrep-Java1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+              <item name="p1_creating_objects" type="462c0819:PsiDirectoryNode" />
+              <item name="L7_OrderOfInitialisation.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="ExamPrep-Java1" type="b2602c69:ProjectViewProjectNode" />
@@ -280,11 +273,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554125911481" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -310,136 +305,88 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.L7_DefaultValues">
+  <component name="RunManager" selected="Application.L4_Char">
     <configuration name="L1_Boolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <option name="MAIN_CLASS_NAME" value="org.softwire.training.p2_primitive_types.L1_Boolean" />
+      <module name="ExamPrep" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.softwire.training.p2_primitive_types.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="org.softwire.training.p2_primitive_types.L1_Boolean" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ExamPrep" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="L2_WholeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <option name="MAIN_CLASS_NAME" value="org.softwire.training.p2_primitive_types.L2_WholeNumbers" />
+      <module name="ExamPrep" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.softwire.training.p2_primitive_types.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="org.softwire.training.p2_primitive_types.L2_WholeNumbers" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ExamPrep" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="L4_Char" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <option name="MAIN_CLASS_NAME" value="org.softwire.training.p2_primitive_types.L4_Char" />
+      <module name="ExamPrep" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.softwire.training.p2_primitive_types.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="org.softwire.training.p2_primitive_types.L4_Char" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ExamPrep" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="L5_WhichVariablesNeedInitialising" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+    <configuration name="L6_NeverUseInstanceInitialisers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.softwire.training.p1_creating_objects.L6_NeverUseInstanceInitialisers" />
+      <module name="ExamPrep" />
+      <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.softwire.training.p3_declaring_variables.*" />
+          <option name="PATTERN" value="org.softwire.training.p1_creating_objects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="org.softwire.training.p3_declaring_variables.L5_WhichVariablesNeedInitialising" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ExamPrep" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="L7_DefaultValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+    <configuration name="L7_OrderOfInitialisation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.softwire.training.p1_creating_objects.L7_OrderOfInitialisation" />
+      <module name="ExamPrep" />
+      <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.softwire.training.p3_declaring_variables.*" />
+          <option name="PATTERN" value="org.softwire.training.p1_creating_objects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="org.softwire.training.p3_declaring_variables.L7_DefaultValues" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ExamPrep" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.L1_Boolean" />
-      <item index="1" class="java.lang.String" itemvalue="Application.L2_WholeNumbers" />
-      <item index="2" class="java.lang.String" itemvalue="Application.L4_Char" />
-      <item index="3" class="java.lang.String" itemvalue="Application.L5_WhichVariablesNeedInitialising" />
-      <item index="4" class="java.lang.String" itemvalue="Application.L7_DefaultValues" />
+    <list>
+      <item itemvalue="Application.L6_NeverUseInstanceInitialisers" />
+      <item itemvalue="Application.L7_OrderOfInitialisation" />
+      <item itemvalue="Application.L1_Boolean" />
+      <item itemvalue="Application.L2_WholeNumbers" />
+      <item itemvalue="Application.L4_Char" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.L7_DefaultValues" />
-        <item index="1" class="java.lang.String" itemvalue="Application.L4_Char" />
-        <item index="2" class="java.lang.String" itemvalue="Application.L2_WholeNumbers" />
-        <item index="3" class="java.lang.String" itemvalue="Application.L1_Boolean" />
-        <item index="4" class="java.lang.String" itemvalue="Application.L5_WhichVariablesNeedInitialising" />
+      <list>
+        <item itemvalue="Application.L4_Char" />
+        <item itemvalue="Application.L2_WholeNumbers" />
+        <item itemvalue="Application.L1_Boolean" />
+        <item itemvalue="Application.L7_OrderOfInitialisation" />
+        <item itemvalue="Application.L6_NeverUseInstanceInitialisers" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -453,59 +400,55 @@
       <updated>1539854502714</updated>
       <workItem from="1539854505396" duration="7598000" />
       <workItem from="1539863994383" duration="21544000" />
+      <workItem from="1554121277469" duration="4604000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29142000" />
+    <option name="totallyTimeSpent" value="33746000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <frame x="730" y="0" width="710" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19606003" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17083333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33403805" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20958084" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.17228916" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.33403805" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3292683" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/org/softwire/training/p1_creating_objects/L7_OrderOfInitialisation.java</url>
-          <line>6</line>
-          <properties />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/org/softwire/training/p1_creating_objects/L3_ConstructorVsField.java</url>
           <line>6</line>
@@ -513,35 +456,86 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="4" />
     </breakpoint-manager>
-    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p2_primitive_types/L1_Boolean.java">
+    <entry file="file://$PROJECT_DIR$/src/org/softwire/training/L6_diary.txt" />
+    <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p4_order_of_elements/L3_DoesThisWork.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state>
+          <folding>
+            <element signature="e#0#379#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/softwire/training/L6_diary.txt" />
-    <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p1_creating_objects/L2_Constructor.java">
+    <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p4_order_of_elements/L2_DoesThisWork.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="27" lean-forward="false" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        <state>
           <folding>
-            <element signature="e#293#294#0" expanded="false" />
-            <element signature="e#316#317#0" expanded="false" />
+            <element signature="e#0#388#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p4_order_of_elements/L1_DoesThisWork.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#0#376#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Integer.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p3_declaring_variables/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p3_declaring_variables/L6_VariableScope.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p3_declaring_variables/L7_DefaultValues.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p3_declaring_variables/L5_WhichVariablesNeedInitialising.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p3_declaring_variables/L4_InstanceOrLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p3_declaring_variables/L3_InstanceAndLocalVariables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p3_declaring_variables/L2_MultipleVariables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p3_declaring_variables/L1_VariableNames.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p1_creating_objects/L3_ConstructorVsField.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="225">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
           <folding>
             <element signature="e#289#290#0" expanded="true" />
             <element signature="e#312#313#0" expanded="true" />
@@ -552,203 +546,88 @@
     <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p1_creating_objects/L4_NotConstructor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-          <folding>
-            <element signature="e#290#291#0" expanded="false" />
-            <element signature="e#313#314#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p1_creating_objects/L5_diary.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p1_creating_objects/L5_InstanceInitialisers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p1_creating_objects/L6_NeverUseInstanceInitialisers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
-          <folding />
+          <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p1_creating_objects/L7_OrderOfInitialisation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="405">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
           <folding>
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p1_creating_objects/L5_InstanceInitialisers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="17" column="90" selection-start-line="17" selection-start-column="90" selection-end-line="17" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p1_creating_objects/L2_Constructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p1_creating_objects/L1_Field.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p4_order_of_elements/L3_DoesThisWork.java">
+    <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p1_creating_objects/L6_NeverUseInstanceInitialisers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#379#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="268">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p4_order_of_elements/L2_DoesThisWork.java">
+    <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p1_creating_objects/L5_diary.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#388#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p4_order_of_elements/L1_DoesThisWork.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#376#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="933" column="18" lean-forward="false" selection-start-line="933" selection-start-column="18" selection-end-line="933" selection-end-column="18" />
-          <folding>
-            <element signature="e#35161#35162#0" expanded="false" />
-            <element signature="e#35199#35200#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p2_primitive_types/L1_Boolean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="19" lean-forward="false" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
-          <folding />
+        <state relative-caret-position="426">
+          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p2_primitive_types/L2_WholeNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="415">
+          <caret line="94" column="52" selection-start-line="94" selection-start-column="52" selection-end-line="94" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p2_primitive_types/L3_DecimalNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="445">
+          <caret line="40" column="76" selection-start-line="40" selection-start-column="76" selection-end-line="40" selection-end-column="76" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p2_primitive_types/L4_Char.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="255">
+          <caret line="17" column="81" selection-start-line="17" selection-start-column="81" selection-end-line="17" selection-end-column="81" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p2_primitive_types/L5_PrimitiveVsReferenceTypes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p3_declaring_variables/L1_VariableNames.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p3_declaring_variables/L2_MultipleVariables.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p3_declaring_variables/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p3_declaring_variables/L3_InstanceAndLocalVariables.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p3_declaring_variables/L4_InstanceOrLocal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#296#297#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#370#371#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p3_declaring_variables/L6_VariableScope.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p3_declaring_variables/L5_WhichVariablesNeedInitialising.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/softwire/training/p3_declaring_variables/L7_DefaultValues.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="360">
+          <caret line="24" column="93" selection-start-line="24" selection-start-column="93" selection-end-line="24" selection-end-column="93" />
         </state>
       </provider>
     </entry>

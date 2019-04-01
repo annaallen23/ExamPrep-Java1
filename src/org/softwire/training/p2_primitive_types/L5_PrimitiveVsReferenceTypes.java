@@ -8,11 +8,11 @@ public class L5_PrimitiveVsReferenceTypes {
         // Which of the following lines will compile?
         // ??????????????????????????????????????????
 
-//        int intOne = null;
-//        Integer intTwo = null;
+//        int intOne = null; // no
+//        Integer intTwo = null; //yes
 
-//        string stringOne = null;
-//        String stringTwo = null;
+//        string stringOne = null; //no
+//        String stringTwo = null; //yes
 
 
         // ??????????????????????????????????????????
@@ -22,8 +22,8 @@ public class L5_PrimitiveVsReferenceTypes {
         int intThree = 123;
         Integer intFour = 456;
 
-//        String stringThree = intThree.toString();
-//        String stringFour = intFour.toString();
+//        String stringThree = intThree.toString(); //no as primitive types don't have method
+//        String stringFour = intFour.toString(); //yes as integer is a class
 
     }
 }

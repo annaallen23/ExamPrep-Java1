@@ -13,10 +13,10 @@ public class L4_NotConstructor {
 
 class Dog {
 
-    public int age = 5;
+    public int age = 5; //field
 
     public void Dog() {
         age = 6;
-    }
+    } //method, doesn't run as no return type
 
 }

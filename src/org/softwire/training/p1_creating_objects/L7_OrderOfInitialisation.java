@@ -14,17 +14,17 @@ public class L7_OrderOfInitialisation {
 class Giraffe {
 
     {
-        age = 5;
+        age = 5;//instance initialiser (don't use)
     }
 
-    public int age = 4;
+    public int age = 4; //setting value of age field
 
-    public Giraffe() {
+    public Giraffe() {//constructor gets run last
         age = 3;
     }
 
     {
-        age = 6;
+        age = 6;//instance initialiser (don't use)
     }
 
 }

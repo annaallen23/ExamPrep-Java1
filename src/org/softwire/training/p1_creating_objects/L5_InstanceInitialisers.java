@@ -15,20 +15,20 @@ public class L5_InstanceInitialisers {
 }
 
 
-class Elephant {
+class Elephant {//uses Instance intialiser block instead of constructor shouldn't do this!
 
     public int age;
 
     {
         // They say elephants never forget.
         // That's because they keep a really good diary
-        String diary = L5Utils.readFile("C:\\Work\\New starter training\\Code\\ExamPrep\\src\\org\\softwire\\training\\p1_creating_objects\\L5_diary.txt");
+        String diary = L5Utils.readFile("/Users/anna.allen/documents/work/training/ExamPrep-Java1/src/org/softwire/training/p1_creating_objects/L5_diary.txt");
 
         String searchFor = "birthday party";
 
         age = 0;
-        for (int i = 0; i < diary.length(); i++) {
-            if (L5Utils.substring(diary, i, searchFor.length()).equals(searchFor)) {
+        for (int i = 0; i < diary.length(); i++) { //iterates through the list to find each instance of Birthday Party
+            if (L5Utils.substring(diary, i, searchFor.length()).equals(searchFor)) { // adds one onto age for each instance
                 age = age + 1;
             }
         }

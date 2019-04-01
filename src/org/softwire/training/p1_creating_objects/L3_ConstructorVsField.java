@@ -13,9 +13,9 @@ public class L3_ConstructorVsField {
 
 class Cat {
 
-    public int age = 4;
+    public int age = 4; // field
 
-    public Cat() {
+    public Cat() { //constructor
         age = 3;
     }
 
